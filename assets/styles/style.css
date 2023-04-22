@@ -260,6 +260,13 @@ main #photo {
   width: 100%;
   padding-block: 50px;
 }
+main #video {
+  width: 100%;
+  padding-block: 50px;
+}
+main #video video {
+  width: 100%;
+}
 
 footer {
   width: 100%;
